@@ -46,7 +46,7 @@ Open the .env file and update the following values with your own email and app p
 SMTPEMAIL = "your.email@example.com"
 SMTPPASSWORD = "your_app_password"
  ```
-1. Get your app password from this link.
+1. Get your app password from this [link](https://myaccount.google.com/apppasswords?rapt=AEjHL4NdW0Z1bzew7u3TXJWUaNJQ58XRTJWWkZhzPH1s7IUCw649-mGk4aXdT1h2uX3Pmj4G6N3nugU5cIJGs7PfPKNiUcOUJMBVyhs0w3Z-NQg6yKfPBeE).
    
    ![image](https://github.com/user-attachments/assets/b54423ee-284e-48cc-b87a-49801e4d87c3)
 
