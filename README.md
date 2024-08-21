@@ -38,7 +38,7 @@ This project is a simple landing page that allows users to send appointment requ
 ![image](https://github.com/user-attachments/assets/706eb347-2efd-414d-a78e-a56389bce5ac)
 
 
-##Step 5: Gmail SMTP Configuration
+## Step 5: Gmail SMTP Configuration
 
 Open the .env file and update the following values with your own email and app password:
 
@@ -54,7 +54,7 @@ SMTPPASSWORD = "your_app_password"
 
    ![image](https://github.com/user-attachments/assets/87ea2e40-fa6a-4dab-a13d-def318045e75)
 
-##Step 6: Start the Node.js Server
+## Step 6: Start the Node.js Server
 1. Use the following command to start your Node.js server:
 
    ```bash
@@ -62,13 +62,13 @@ SMTPPASSWORD = "your_app_password"
 
 ![image](https://github.com/user-attachments/assets/e9105b24-8316-4b72-b1a3-d37794a8c875)
 
-##Step 7: Run the Application
+## Step 7: Run the Application
 
 1. Navigate to index.html and click on it to open the application.
 
 ![image](https://github.com/user-attachments/assets/bbae1bd5-568c-41fa-b99a-751b5d54af81)
 
-##Application Presentation
+## Application Presentation
 The application is a landing page that allows users to send an appointment request email to the company. It consists of the following sections:
 
 1. Carousel: Displays some information about the company and product images.
@@ -98,17 +98,7 @@ example of the email:
 
 You can view the frontend part of the project here:
 
-Frontend Project - Boumitec Landing Page
-
-
-
-
-
-
-
-
-here you can fin the frontend part of the project :
-
-https://elaamranisoufiane.github.io/BoumitecLandingPage/
+Frontend Project - [Boumitec Landing Page](https://elaamranisoufiane.github.io/BoumitecLandingPage)
+ 
 
 
